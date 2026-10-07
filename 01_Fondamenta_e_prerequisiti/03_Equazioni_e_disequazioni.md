@@ -148,3 +148,4 @@ Un'equazione afferma che due espressioni sono uguali per determinati valori; una
 	- **Manipolazione di potenze e radicali:** si applicano le proprietà rispettando basi, esponenti e domini.
 	- **Manipolazione di logaritmi:** si usano le proprietà solo con argomenti positivi e basi ammesse.
 	- **Controllo delle soluzioni estranee:** si verificano sempre i risultati nell'equazione o disequazione originale.
+    

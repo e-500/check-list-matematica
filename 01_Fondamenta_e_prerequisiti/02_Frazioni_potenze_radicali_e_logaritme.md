@@ -79,3 +79,4 @@
     - **Condizioni principali:** i denominatori devono essere non nulli, i radicandi di radici pari non negativi e gli argomenti dei logaritmi positivi.
     - **Intersezione delle condizioni:** quando un'espressione impone più vincoli, il dominio è l'insieme dei valori che li soddisfano tutti.
     - **Controllo delle trasformazioni:** semplificazioni ed elevamenti a potenza possono modificare l'insieme delle soluzioni candidate; si verificano sempre le condizioni iniziali.
+    

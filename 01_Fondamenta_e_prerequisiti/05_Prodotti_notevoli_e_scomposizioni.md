@@ -74,5 +74,3 @@ e soprattutto il percorso inverso:
 $$
 \boxed{\text{polinomio} \longrightarrow \text{fattori}}
 $$
-
-Perché, nella pratica, la parte fastidiosa non è imparare le formule: è **riconoscere quale usare**.
