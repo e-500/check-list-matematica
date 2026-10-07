@@ -1,7 +1,7 @@
 # Check-List matematica
 
 1. Fondamenta e prerequisiti
-    - [Aritmetica e algebra di base](01_Fondamenta_e_prerequisiti/Aritmetica_e_algebra_di_base.md)
+    - [Aritmetica e algebra di base](01_Fondamenta_e_prerequisiti/01_Aritmetica_e_algebra_di_base.md)
     - [Frazioni, potenze, radicali e logaritmi](01_Fondamenta_e_prerequisiti/02_Frazioni_potenze_radicali_e_logaritme.md)
     - [Equazioni e disequazioni](01_Fondamenta_e_prerequisiti/03_Equazioni_e_disequazioni.md)
     - [Valore assoluto](01_Fondamenta_e_prerequisiti/04_Valore_assoluto.md)
