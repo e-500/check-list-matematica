@@ -114,7 +114,7 @@
     - Autovalori e autovettori
     - Diagonalizzazione
 11. Geometria nello spazio
-    - Vettori in \(\mathbb R^2\) e \(\mathbb R^3\)
+    - Vettori in $\(\mathbb R^2\)$ e $\(\mathbb R^3\)$
     - Prodotto scalare
     - Prodotto vettoriale
     - Rette e piani nello spazio
@@ -133,7 +133,7 @@
     - Teorema fondamentale dell'algebra
 13. Calcolo multivariabile
     - Funzioni di più variabili
-    - Domini in \(\mathbb R^n\)
+    - Domini in $\(\mathbb R^n\)$
     - Limiti e continuità
     - Derivate parziali
     - Gradiente
@@ -215,7 +215,7 @@
     - Spazi normati
     - Cenni di analisi funzionale
     - Misura e integrale di Lebesgue
-    - Spazi \(L^p\)
+    - Spazi $\(L^p\)$
 21. Algebra astratta
     - Operazioni e strutture algebriche
     - Gruppi
